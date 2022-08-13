@@ -8,7 +8,7 @@
 
 > skills
 
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+- 🔭 back-end： ![Golang](https://img.shields.io/badge/-Golang-gray?style=flat-circle&logo=go)![Python](https://img.shields.io/badge/-Python-green?style=flat-circle&logo=python)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
 
 - 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
 
